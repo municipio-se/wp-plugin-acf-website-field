@@ -20,6 +20,15 @@ This is an add-on for the [Advanced Custom Fields](http://wordpress.org/extend/p
 WordPress plugin and will not provide any functionality to WordPress unless Advanced Custom Fields is installed
 and activated.
 
+Fork Base
+---
+
+This LTS fork is based on Helsingborg stad's
+[ACF Website Field repository](https://github.com/helsingborg-stad/acf-website-field)
+at commit
+[`1791416`](https://github.com/helsingborg-stad/acf-website-field/commit/17914161e4acfa8273e6804c7a9dd44c65a41581)
+from 2023-09-22. The upstream commit is not tagged as a release.
+
 The Website field gives a few basic options:
 
 * Show / Hide Title (if checked to No, than the website URL will show on the front end and the title field will not be shown in the admin)
